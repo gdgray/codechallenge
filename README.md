@@ -1,5 +1,7 @@
 Code Challenge App
 
+Language: go
+
 A REST API for adding, updating, and deleting users. Signup, login, and logout included.
 
 The following routes are implemented:
@@ -34,7 +36,11 @@ Project dependencies:
 go get github.com/gorilla/mux
 
 go get github.com/gorilla/context
+
 go get github.com/mitchellh/mapstructure
+
 go get github.com/dgrijalva/jwt-go
+
 go get github.com/mattn/go-sqlite3
+
 go get -u golang.org/x/crypto/bcrypt
