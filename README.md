@@ -32,6 +32,7 @@ Installation
 Project dependencies:
 
 go get github.com/gorilla/mux
+
 go get github.com/gorilla/context
 go get github.com/mitchellh/mapstructure
 go get github.com/dgrijalva/jwt-go
